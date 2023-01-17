@@ -1,0 +1,17 @@
+{
+  "name": "09.01.23",
+  "version": "1.0.0",
+  "description": "",
+  "main": "array.ts",
+  "scripts": {
+    "start": "ts-node ./linkedList/implementingLinkedList.ts",
+    "dev": "ts-node ./stack/stackClass.ts"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "ts-node": "^10.9.1",
+    "typescript": "^4.9.4"
+  }
+}
